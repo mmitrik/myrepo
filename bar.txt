@@ -1,5 +1,0 @@
-start(daniel)
-fooAB
-bar
-baz
-end(myrepo)
