@@ -1,3 +1,4 @@
+start(daniel)
 fooAB
 bar
 baz
