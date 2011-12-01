@@ -5,3 +5,4 @@ baz-mod
 end(myrepo)
 append
 newline
+rebase
