@@ -6,3 +6,4 @@ end(myrepo)
 append
 newline
 rebase
+edit
