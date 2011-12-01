@@ -4,3 +4,4 @@ bar-mod
 baz-mod
 end(myrepo)
 append
+newline
