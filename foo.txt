@@ -7,3 +7,4 @@ append
 newline
 rebase
 edit
+another
