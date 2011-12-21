@@ -9,3 +9,4 @@ rebase
 edit
 another
 bugfix
+bugfix2
